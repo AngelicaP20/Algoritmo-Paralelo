@@ -1,0 +1,4 @@
+frutas = ["Mango", "Naranja", "piña", "Mandarina", "Lechosa"]
+
+for nombre in frutas:
+    print(nombre)

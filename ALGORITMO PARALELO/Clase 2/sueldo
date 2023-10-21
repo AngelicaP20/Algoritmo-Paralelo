@@ -1,0 +1,12 @@
+numero =1
+suerdo =0
+total =0
+
+while numero <=5:
+    sueldo = int(input("Entre sueldo :"))
+
+    total = total + sueldo
+    
+    numero = numero + 1
+
+print ("Total e sueldo :", total)

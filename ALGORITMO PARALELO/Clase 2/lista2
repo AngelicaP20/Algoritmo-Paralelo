@@ -1,0 +1,6 @@
+dias = ["lunes", "martes", "miercoles", "jueves", "viernes"]
+
+dias.append('Sab')
+print(dias[0:6])
+
+
